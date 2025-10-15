@@ -118,6 +118,7 @@ nav .profile-link a {
     border: 1px solid #47cfac;
     padding: 10px 15px;
     font-size: 12px;
+    width: 100%;
 }
 
 .blogs-posts-container .post-container{
@@ -130,6 +131,7 @@ nav .profile-link a {
 .blogs-posts-container .post-container p{
     margin-bottom: 36px;
 }
+
 
 .blogs-posts-container .post-container img{
     width: 100%;
