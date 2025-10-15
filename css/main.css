@@ -206,8 +206,9 @@ footer p{
 
 .profile-main-container img{
     width: 200px;
-    margin-right: 50px;
+   /* margin-right: 50px;*/
     border-radius: 150px;
+    margin:auto auto;
 }
 
 .profile-main-container .profile-container{
